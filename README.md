@@ -1,4 +1,4 @@
-# Insertionsort
+# Insertion Sort
 Insertion Sort Algorithm
 
 - Transverse the array the right to left
